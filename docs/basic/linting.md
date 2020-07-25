@@ -3,7 +3,7 @@ id: linting
 title: Linting
 ---
 
-> ⚠️Note that [TSLint is now in maintenance and you should try to use ESLint instead](https://medium.com/palantir/tslint-in-2019-1a144c2317a9). If you are interested in TSLint tips, please check this PR from [@azdanov](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/pull/14). The rest of this section just focuses on ESLint. [You can convert TSlint to ESlint with this tool](https://github.com/typescript-eslint/tslint-to-eslint-config).
+> ⚠️注意 [TSLint 目前已經是維護狀態，所以你應該要試著使用 ESLint 取代它](https://medium.com/palantir/tslint-in-2019-1a144c2317a9)。如果你對 TSLint 技巧有興趣，請看這個來自 [@azdanov](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet/pull/14)的PR。這個單元之後的內容都只是針對 ESLint 的。[你可以用這個工具替換掉 TSlint 為 ESlint](https://github.com/typescript-eslint/tslint-to-eslint-config).
 
 > ⚠️This is an evolving topic. `typescript-eslint-parser` is no longer maintained and [work has recently begun on `typescript-eslint` in the ESLint community](https://eslint.org/blog/2019/01/future-typescript-eslint) to bring ESLint up to full parity and interop with TSLint.
 
